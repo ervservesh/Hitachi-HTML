@@ -1,3 +1,3 @@
 # Hitachi-HTML
 
-Click to Visit website: https://github.com/ervservesh/Hitachi-HTML.git
+Click to Visit website: https://ervservesh.github.io/Hitachi-HTML/
