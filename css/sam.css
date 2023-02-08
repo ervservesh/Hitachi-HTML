@@ -1,0 +1,362 @@
+@media screen and (max-width:1280px) {
+    .offerpage-section2-inner {
+        padding: 45px 7px;
+    }
+
+    .offerpage-section3-slider .owl-dots {
+        margin-left: 14%;
+        width: calc(100% - 20%);
+    }
+}
+
+
+@media screen and (max-width:1170px) {
+    .offerpage-section3-slider-caption {
+        margin-top: -320px;
+    }
+    .offerpage-section711{
+        max-width: 300px;
+    }
+    .offerpage-section71.offerpage-section72 .offerpage-section711 img{
+        width:100%;
+    }
+}
+
+@media screen and (max-width:990px) {
+    .offerpage-section1-slider-inner {
+        flex-wrap: wrap;
+    }
+
+    .offerpage-section1-slider-left {
+        display: none;
+    }
+
+    .offerpage-section1-slider-right {
+        width: 100%;
+        margin: 0 auto 0;
+    }
+    .offerpage-section1-outer {
+        padding: 50px 0 150px;
+    }
+
+    .black-bg img {
+        width: 100%;
+    }
+
+    .temperature {
+        margin: 0 0 0 30px;
+    }
+
+    .offerpage-section7 {
+        flex-wrap: wrap;
+    }
+
+    .offerpage-section7-left {
+        width: 100%;
+    }
+
+    .offerpage-section7-right {
+        width: 100%;
+    }
+
+    .offerpage-section71 {
+        padding-bottom: 30px;
+    }
+    .offerpage-section7-th img{
+        width: 100%;
+    }
+    .modal-style h4 .cls-windo{
+        right:0;
+    }
+    .offerpage-section5-left {
+        width: 70%;
+    }
+    .offerpage-section5-th img{
+        padding-top:240px;
+    }
+    .offerpage-section4-caption{
+        top:41%;
+    }
+
+}
+
+
+
+@media screen and (max-width:767px) {
+    .white-bg .row {
+        display: block;
+    }
+
+    .white-bg .row .col-sm {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .eshop-home .row>div {
+        margin-bottom: 20px;
+    }
+
+    .temperature {
+        margin: 0 0 0 0;
+    }
+
+    .offerpage-sectionair-mobile {
+        display: block;
+    }
+
+    .offerpage-sectionair-mobile img {
+        width: 100%;
+        vertical-align: top;
+    }
+
+    .offerpage-sectionair {
+        display: none;
+    }
+
+    .offerpage-section5-left {
+        width: 100%;
+        background: #d3103d;
+        padding: 30px;
+        position: relative;
+        top: -164px;
+        z-index: 2;
+    }
+
+    .offerpage-section5-th img {
+        width: 100%;
+        vertical-align: top;
+        padding-top: 157px;
+    }
+
+    .offerpage-section4-caption {
+        position: static;
+        width: 90%;
+        margin-right: 0;
+        margin-left: auto;
+        position: relative;
+        margin-bottom: -100px;
+    }
+
+    .offerpage-section4-left {
+        width: 100%;
+        text-align: center;
+        padding: 0 20px 50px;
+    }
+
+    .offerpage-section-comman.text-right,
+    .offer-page-sectionheading.text-right {
+        text-align: center !important;
+    }
+
+    .offerpage-section-comman p{
+        padding-left:15px;
+        padding-right:15px;
+    }
+    .offerpage-section-comman p br{
+        display: none;
+    }
+
+    .offerpage-section1-outer {
+        padding: 50px 0 100px;
+    }
+    .offerpage-section4-left {
+        width: 100%;
+        text-align: center;
+        padding: 0 0 50px;
+    }
+    .hitachiair{
+        margin-bottom:50px;
+    }
+    .offerpage-section3-slider-caption{
+        margin-top:0;
+    }
+    .offerpage-section3-slider-caption{
+        width:100%;
+    }
+    .offerpage-section3-slider .owl-dots {
+        margin-left: 0;
+        width: 100%;
+    }
+   
+    .offerpage-section3-slider-outer .container{
+        padding-left:0 !important;
+        padding-right:0 !important; 
+    }
+    .offerpage-section3-slider-caption-inner {
+        padding: 150px  30px 30px;
+    }
+    .offerpage-section3-slider .owl-dots .owl-dot{
+        margin:0 20px;
+    }
+    .offerpage-section3-slider-caption-inner{
+        text-align: center;
+    }
+    .offerpag-section2-outer-mobile{
+        display: block;
+    }
+    .offerpag-section2-outer{
+        display: none;
+    }
+    .offerpag-section2-outer-mobile-inner{
+        text-align: center;
+        padding-top:20px;
+    }
+    .offerpag-section2-outer-mobile-inner img{
+        max-width: 300px;
+        width:100%;
+        margin:10px auto;
+    }
+    .offerpage-section1-slider .owl-nav{
+        left:0;
+    }
+    .offerpage-section1-slider .owl-dots{
+        left:0;
+    }
+     .offerpage-section6 {
+        padding: 0 0 70px;
+    }
+
+}
+
+@media screen and (max-width:667px) {
+    .quick-section .quick-obj {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .individual_btn {
+        margin-bottom: 20px;
+    }
+
+    .actemperature {
+        width: 100%
+    }
+
+    .temperature {
+        width: auto;
+    }
+
+    .offerpage-section6-outer {
+        flex-wrap: wrap;
+    }
+
+ 
+    .offerpage-section71 {
+        display: block;
+    }
+
+    .offerpage-section7-left img {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .offerpage-section712 img{
+        width: auto;
+    }
+    .offerpage-section7-right .offerpage-section711{
+        text-align: right;
+        width: 100%;
+        margin-right: 0;
+        margin-left: auto;
+    }
+    .offerpage-section711{
+        max-width: auto;
+    }
+    .offerpage-section711 img{
+        width: 80%;
+    }
+
+    .offerpage-section72 .offerpage-section712 {
+        text-align: center;
+    }
+
+    .offerpage-section712 {
+        text-align: center;
+    }
+
+    .offerpage-section712,
+    .offerpage-section72 .offerpage-section712 {
+        padding-top: 0;
+    }
+
+    .offerpage-section71 {
+        padding-bottom: 50px;
+    }
+
+    .offerpage-section7 {
+        padding-bottom: 0;
+    }
+
+    .offerpage-bannercaption {
+        text-align: center;
+        width: 90%;
+        margin: -42px auto 0;
+    }
+    .offerpage-section-pageheading{
+        font-size: 35px;
+        line-height:38px;
+    }
+     .offerpage-section-pageheading span {
+        padding: 0 4px;
+    }
+    .offerpage-section1 h4{
+        font-size: 27px;
+    }
+    .offer-page-sectionheading, .offerpage-section5-left h4{
+        font-size: 27px;
+    }
+    .offer-page-sectionheading{
+        padding-top:15px;
+    }
+    .offerpage-section-comman p{
+        font-size: 17px;
+        line-height: 27px;
+        padding-left:15px;
+        padding-right:15px;
+    }
+    .offerpage-section-comman p br{
+        display: none;
+    }
+    .offerpage-section5-left p{
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .offerpage-section3-slider-caption-inner p{
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .offerpage-section3-slider .owl-dots button{
+        font-size: 20px;
+    }
+    .offerpage-section71.offerpage-section72 .offerpage-section711 img {
+        width: 80%;
+    }
+
+}
+
+
+@media screen and (max-width:480px) {
+
+}
+
+@media only screen and (min-width:320px) and (max-width: 991px) {
+
+    /*product nav set*/
+    .product-nav .navbar { background: #000; }
+    .product-nav .navbar .navbar-toggler { border: 0px; outline: none; }
+    .product-nav .navbar .navbar-collapse { position: absolute; width: 100%; top: 100%; z-index: 1; max-height: 250px; overflow: auto; }
+    .product-nav .navbar .navbar-nav { background: #a3a3a3; }
+    .product-nav .navbar .navbar-nav > li > a, .product-nav .navbar .navbar-nav > li > .dropdown-menu a { width: 100%; font-size: 15px; line-height: 18px; padding: 8px 13px; height: 35px; }
+    .product-nav .navbar .title { padding: 5px 13px; font-size: 15px; height: 34px; }
+    /*mid section*/
+    .mid-section { padding: 10px 0 }
+    .mid-section .logo { margin: 0 0 10px 0; }
+    .mid-section .mid-right { text-align: left; }
+    .mid-section .mid-right img { margin-right: 0px; }
+    .top-bar .healpline-no { color: #fff; font-size: 13px; padding: 10px 0; }
+    /*footer*/
+    footer { padding: 20px 0px }
+    footer .bottom { text-align: center; padding: 20px 0 0 0; }
+    footer .bottom .right { text-align: center; margin-top: 10px; }
+    
+}
